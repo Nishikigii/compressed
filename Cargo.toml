@@ -1,0 +1,12 @@
+[package]
+name = "compressed"
+version = "0.0.0"
+edition = "2021"
+description = "compress directories"
+license = "MIT"
+authors = ["nishikigii", "andei_buite"]
+repository = "https://github.com/Nishikigii/compressed"
+keywords = ["compress", "zip", "tar"]
+
+[dependencies]
+essentials = "0.1.1"
